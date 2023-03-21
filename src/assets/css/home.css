@@ -1,0 +1,33 @@
+.sidebar {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 20%;
+}
+
+.sidebar h4 {
+  width: 30%;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.sidebar__pagination {
+  width: 100%;
+}
+
+.pokemon-data {
+  text-transform: capitalize;
+}
+
+.home {
+  display: flex;
+}
+
+.pokemon-data {
+  text-align: center;
+  width: 80%;
+}
+
+.pokemon-data ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
